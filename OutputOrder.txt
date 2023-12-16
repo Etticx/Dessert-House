@@ -1,0 +1,288 @@
+=============DETAILS OF MEMBER AND NON-MEMBER================
+Customer Name = Nurul binti Abdullah
+Date Ordered = 11/2/2023
+Dessert Type = Ice Cream
+Flavour = Chocolate
+Size = Double Scoop
+Topping = Choco Chips
+Total Cost(Including Tax) = RM6.36
+Payment Method = ShopeePay
+Member = True
+Membership code = DH2031
+Final Price(After Discount) = RM5.72
+
+Customer Name = Muhammad Hadri bin AB.Khalid
+Date Ordered = 2/3/2023
+Dessert Type = Cake
+Flavour = Chocolate
+Size = Small
+Topping = Nuts
+Total Cost(Including Tax) = RM5.3
+Payment Method = TNG eWallet
+Member = False
+Discount Code = NONE
+Discount = NO DISCOUNT COUPON
+Final Price(After Discount) = RM5.30
+
+Customer Name = Muhammad Alif Asyraf bin Mohd Azlan
+Date Ordered = 11/12/2023
+Dessert Type = Ice Cream
+Flavour = Chocolate
+Size = Large Cup
+Topping = Caramel Sauce
+Total Cost(Including Tax) = RM8.48
+Payment Method = Cash
+Member = False
+Discount Code = DH41
+Discount = 10%
+Final Price(After Discount) = RM7.63
+
+Customer Name = Bakri bin Yahya
+Date Ordered = 3/4/2023
+Dessert Type = Cake
+Flavour = Vanilla
+Size = Large
+Topping = Fondant
+Total Cost(Including Tax) = RM7.42
+Payment Method = ShopeePay
+Member = True
+Membership code = DH1911
+Final Price(After Discount) = RM6.68
+
+Customer Name = Zabar bin Kamar
+Date Ordered = 1/2/2023
+Dessert Type = Cake
+Flavour = Chocolate
+Size = Medium
+Topping = Sprinkles
+Total Cost(Including Tax) = RM6.36
+Payment Method = Cash
+Member = False
+Discount Code = NONE
+Discount = NO DISCOUNT COUPON
+Final Price(After Discount) = RM6.36
+
+Customer Name = Hadi bin Hasan
+Date Ordered = 2/2/2023
+Dessert Type = Ice Cream
+Flavour = Vanilla
+Size = Single Scoop
+Topping = Sprinkles
+Total Cost(Including Tax) = RM3.18
+Payment Method = TNG eWallet
+Member = True
+Membership code = DH1612
+Final Price(After Discount) = RM2.70
+
+Customer Name = Jamalludin bin Fakri
+Date Ordered = 3/2/2023
+Dessert Type = Cake
+Flavour = Chocolate
+Size = Medium
+Topping = Sprinkles
+Total Cost(Including Tax) = RM6.36
+Payment Method = ShopeePay
+Member = False
+Discount Code = DH53
+Discount = 20%
+Final Price(After Discount) = RM5.09
+
+Customer Name = Fariz Danial bin Rizman
+Date Ordered = 4/10/2023
+Dessert Type = Ice Cream
+Flavour = Pistachio
+Size = Single Scoop
+Topping = Sprinkles
+Total Cost(Including Tax) = RM5.3
+Payment Method = ShopeePay
+Member = False
+Discount Code = DH41
+Discount = 10%
+Final Price(After Discount) = RM4.77
+
+Customer Name = Haikal Hariz bin Norzaidi
+Date Ordered = 18/10/2023
+Dessert Type = Cake
+Flavour = Chocolate
+Size = Large
+Topping = Fondant
+Total Cost(Including Tax) = RM8.48
+Payment Method = Cash
+Member = True
+Membership code = DH2009
+Final Price(After Discount) = RM7.63
+
+Customer Name = Hadri Bakhri bin Hamid
+Date Ordered = 9/12/2023
+Dessert Type = Ice Cream
+Flavour = Pistachio
+Size = Double Scoop
+Topping = Choco Chips
+Total Cost(Including Tax) = RM7.42
+Payment Method = Credit/Debit Card
+Member = True
+Membership code = DH1820
+Final Price(After Discount) = RM6.31
+
+Customer Name = Arif bin Mohd Yusof
+Date Ordered = 7/3/2023
+Dessert Type = Ice Cream
+Flavour = Pistachio
+Size = Single Scoop
+Topping = Sprinkles
+Total Cost(Including Tax) = RM5.3
+Payment Method = TNG eWallet
+Member = False
+Discount Code = NONE
+Discount = NO DISCOUNT COUPON
+Final Price(After Discount) = RM5.30
+
+Customer Name = Nurul Aina binti Azlan
+Date Ordered = 2/11/2023
+Dessert Type = Cake
+Flavour = Coffee
+Size = Medium
+Topping = Sprinkles
+Total Cost(Including Tax) = RM7.42
+Payment Method = Credit/Debit Card
+Member = False
+Discount Code = DH53
+Discount = 20%
+Final Price(After Discount) = RM5.94
+
+Customer Name = Dzarief Iman bin Dzulhardy
+Date Ordered = 3/1/2023
+Dessert Type = Cake
+Flavour = Vanilla
+Size = Large
+Topping = Fondant
+Total Cost(Including Tax) = RM7.42
+Payment Method = TNG eWallet
+Member = True
+Membership code = DH1802
+Final Price(After Discount) = RM6.31
+
+Customer Name = Fakhri bin Bahman
+Date Ordered = 31/8/2023
+Dessert Type = Ice Cream
+Flavour = Vanilla
+Size = Large Cup
+Topping = Caramel Sauce
+Total Cost(Including Tax) = RM7.42
+Payment Method = Credit/Debit Card
+Member = True
+Membership code = DH2312
+Final Price(After Discount) = RM6.68
+
+Customer Name = Amir bin Fakhrul
+Date Ordered = 21/9/2023
+Dessert Type = Ice Cream
+Flavour = Pistachio
+Size = Single Scoop
+Topping = Sprinkles
+Total Cost(Including Tax) = RM5.3
+Payment Method = ShopeePay
+Member = False
+Discount Code = DH41
+Discount = 10%
+Final Price(After Discount) = RM4.77
+
+Customer Name = Aiman Najmi bin Dzulkifli
+Date Ordered = 4/5/2023
+Dessert Type = Cake
+Flavour = Vanilla
+Size = Medium
+Topping = Sprinkles
+Total Cost(Including Tax) = RM5.3
+Payment Method = Credit/Debit Card
+Member = False
+Discount Code = NONE
+Discount = NO DISCOUNT COUPON
+Final Price(After Discount) = RM5.30
+
+Customer Name = Sufian Amar bin Umar
+Date Ordered = 2/11/2023
+Dessert Type = Ice Cream
+Flavour = Pistachio
+Size = Single Scoop
+Topping = Sprinkles
+Total Cost(Including Tax) = RM5.3
+Payment Method = Cash
+Member = False
+Discount Code = DH53
+Discount = 20%
+Final Price(After Discount) = RM4.24
+
+Customer Name = Intan Diana binti Shukor
+Date Ordered = 2/1/2023
+Dessert Type = Cake
+Flavour = Vanilla
+Size = Medium
+Topping = Sprinkles
+Total Cost(Including Tax) = RM5.3
+Payment Method = Cash
+Member = True
+Membership code = DH2053
+Final Price(After Discount) = RM4.77
+
+Customer Name = Lim Wei Jie
+Date Ordered = 3/1/2023
+Dessert Type = Ice Cream
+Flavour = Chocolate
+Size = Large Cup
+Topping = Caramel Sauce
+Total Cost(Including Tax) = RM8.48
+Payment Method = ShopeePay
+Member = False
+Discount Code = NONE
+Discount = NO DISCOUNT COUPON
+Final Price(After Discount) = RM8.48
+
+Customer Name = Qamarina binti Qismina
+Date Ordered = 2/1/2023
+Dessert Type = Ice Cream
+Flavour = Chocolate
+Size = Double Scoop
+Topping = Choco Chips
+Total Cost(Including Tax) = RM6.36
+Payment Method = Credit/Debit Card
+Member = False
+Discount Code = DH53
+Discount = 20%
+Final Price(After Discount) = RM5.09
+
+
+===============TOTAL PRICE FOR EACH PAYMENT METHODS==================
+Credit/Debit Card = RM29.31
+Shopeepay = RM35.51
+TNG eWallet = RM19.61
+Cash = RM30.63
+
+================SEARCHING AND UPDATING CUSTOMER NAME=======================
+Before: 
+Name to be search = Amir bin Fakhrul
+
+After: 
+Customer Name = Amir
+Date Ordered = 21/9/2023
+Dessert Type = Ice Cream
+Flavour = Pistachio
+Size = Single Scoop
+Topping = Sprinkles
+Total Cost(Including Tax) = RM5.3
+Payment Method = ShopeePay
+Member = False
+Discount Code = DH41
+Discount = 10%
+
+===========TOTAL PRICE FOR NON MEMBER THAT USES DISCOUNT CODE=============
+Total Price = RM37.52
+
+========TOTAL MEMBER WHO HAVE BEEN MEMBER FOR AT LEAST 2 YEAR=============
+Total Member = 8
+
+=========TOTAL NON-MEMBER WHO GOT 20% OFF USING DISCOUNT CODE==============
+Total Non-member = 4
+
+=========TOTAL NON-MEMBER WHO GOT 10% OFF USING DISCOUNT CODE==============
+Total Non-member = 3

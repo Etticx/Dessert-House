@@ -1,0 +1,20 @@
+Nurul binti Abdullah;11;02;2023;2;1;2;1;2;YES;DH2031
+Muhammad Hadri bin AB.Khalid;02;03;2023;1;1;1;1;3;NO;NO
+Muhammad Alif Asyraf bin Mohd Azlan;11;12;2023;2;1;3;3;4;NO;YES;DH41
+Bakri bin Yahya;03;04;2023;1;2;3;1;2;YES;DH1911
+Zabar bin Kamar;01;02;2023;1;1;2;3;4;NO;NO
+Hadi bin Hasan;02;02;2023;2;2;1;1;3;YES;DH1612
+Jamalludin bin Fakri;03;02;2023;1;1;2;2;2;NO;YES;DH53
+Fariz Danial bin Rizman;04;10;2023;2;3;1;3;2;NO;YES;DH41
+Haikal Hariz bin Norzaidi;18;10;2023;1;1;3;2;4;YES;DH2009
+Hadri Bakhri bin Hamid;09;12;2023;2;3;2;1;1;YES;DH1820
+Arif bin Mohd Yusof;07;03;2023;2;3;1;2;3;NO;NO
+Nurul Aina binti Azlan;02;11;2023;1;3;2;1;1;NO;YES;DH53
+Dzarief Iman bin Dzulhardy;03;01;2023;1;2;3;3;3;YES;DH1802
+Fakhri bin Bahman;31;08;2023;2;2;3;1;1;YES;DH2312
+Amir bin Fakhrul;21;09;2023;2;3;1;3;2;NO;YES;DH41
+Aiman Najmi bin Dzulkifli;04;05;2023;1;2;2;3;1;NO;NO
+Sufian Amar bin Umar;02;11;2023;2;3;1;2;4;NO;YES;DH53
+Intan Diana binti Shukor;02;01;2023;1;2;2;3;4;YES;DH2053
+Lim Wei Jie;03;01;2023;2;1;3;1;2;NO;NO
+Qamarina binti Qismina;02;01;2023;2;1;2;2;1;NO;YES;DH53

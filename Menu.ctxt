@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=d\ f\ s\ t
+comment1.target=Menu(int,\ int,\ int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ getTopping()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=dt
+comment2.target=void\ setDessertType(int)
+comment3.params=f
+comment3.target=void\ setFlavour(int)
+comment4.params=s
+comment4.target=void\ setSize(int)
+comment5.params=t
+comment5.target=void\ setTopping(int)
+comment6.params=
+comment6.target=double\ calcCost()
+comment7.params=
+comment7.target=java.lang.String\ getDessertType()
+comment8.params=
+comment8.target=java.lang.String\ getFlavour()
+comment9.params=
+comment9.target=java.lang.String\ getSize()
+numComments=12
